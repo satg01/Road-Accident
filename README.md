@@ -10,7 +10,7 @@ Data Visualization
 
 
 # Insights drive from the accident analysis
-Here's a revised version of the text for your post:
+
 
 📌 Urban areas have a higher number of accident cases compared to rural areas.
 
