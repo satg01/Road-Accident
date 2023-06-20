@@ -17,7 +17,7 @@ Understanding injury severity distribution can guide resource allocation and eme
 
 Fridays experienced the highest number of accidents, potentially indicating increased traffic volume or driver behavior before weekends.
 Sundays had the lowest number of reported accidents, suggesting different driving patterns or reduced traffic flow.
-Vehicle Types:
+ <h4> 📌Vehicle Types: </h4>
 
 Cars were involved in the majority of accidents, emphasizing the importance of driver education and safety measures for private vehicle users.
 Uncommon vehicle types, such as horses, had minimal involvement in accidents, providing additional context for comprehensive analysis.
